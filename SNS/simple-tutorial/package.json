@@ -1,0 +1,23 @@
+{
+  "name": "simple-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1145.0",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "dotenv": "^16.0.1",
+    "interval-promise": "^1.4.0",
+    "mongoose": "^6.3.4"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
