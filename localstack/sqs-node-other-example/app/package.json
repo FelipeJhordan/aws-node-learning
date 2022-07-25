@@ -1,0 +1,25 @@
+{
+    "name": "localstack-sqs",
+    "version": "1.0.0",
+    "description": "localstack sqs",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon index.js"
+    },
+    "keywords": [
+      "localstack sqs",
+      "nodejs",
+      "expressjs"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "aws-sdk": "^2.1043.0",
+      "express": "^4.17.1",
+      "underscore": "^1.13.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.15"
+    }
+  }
