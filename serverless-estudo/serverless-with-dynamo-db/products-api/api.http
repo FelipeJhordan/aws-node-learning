@@ -1,0 +1,11 @@
+####
+POST  https://ohsrxdbjc2.execute-api.sa-east-1.amazonaws.com/product
+Content-Type: application/json
+
+{
+    "Name": "sapato"
+}
+
+####
+GET  https://ohsrxdbjc2.execute-api.sa-east-1.amazonaws.com/product/ADKOKFGDSOFKS
+Content-Type: application/json
